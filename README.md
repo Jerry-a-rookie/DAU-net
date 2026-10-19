@@ -41,21 +41,12 @@ Dataset files are intentionally not included in this repository. Download them f
 | `solar` | User-specified `--root_path` and `--data_path` | CSV/TXT with a timestamp column followed by plant readings |
 
 
-## License and citation
+## License 
 
 The source code is released under the MIT License. Dataset files are not covered by this repository's license; users must follow the terms of the original dataset providers.
 
 If you use this code, please cite:
 
-```bibtex
-@article{daunet2026,
-  title   = {DAU-Net: A Scale-Adaptive U-Net for Multivariate Time Series Forecasting},
-  journal = {Information Sciences},
-  year    = {2026}
-}
-```
-
-Before publishing the repository, replace or extend the citation metadata with the final author list, DOI, and publication information when available.
 
 ## Contact
 
