@@ -1,6 +1,6 @@
 # DAU-Net
 
-Official implementation of **DAU-Net: A Scale-Adaptive U-Net for Multivariate Time Series Forecasting**.
+Official implementation of **DAU-Net: A Dual-Aspect Multi-Scale U-Net for Multivariate Time Series Forecasting**.
 
 
 ## Installation
